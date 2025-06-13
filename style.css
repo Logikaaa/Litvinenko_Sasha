@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    
+    background-color: black;
+    color: white;
+    margin: 0;
+    font-family: "Montserrat";
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.button {
+    text-decoration: none;
+    background-color: #36BBCE;
+    color: black;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.nav-link {
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    font-size: 24px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 34px;
+}
+
+p {
+    font-size: 20px;
+    color: black;
+}
+
+.info {
+   width: 840px;
+   
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   margin: auto;
+}
+
+article {
+   width: 390px;
+   background-color: white;
+   padding-top: 16px;
+   padding-bottom:30px ;
+   margin-bottom: 62px;
+}
+
+.article-but {
+    background-color: #2FA3B4;
+    color:white;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    display: block;
+    width: 300px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+
+footer {
+    background-color: #2FA3B4;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    height: 180px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer a {
+    
+}
+
+footer p {
+    
+}
+
+.knopki{
+    text-align: center;
+    
+}
+
+.logo{
+    
+}
+
+.slime{
+    background-color: aliceblue;
+    border-bottom: 6px solid aliceblue;
+    
+}
+
+.people{
+    background-color: aliceblue;
+    border-bottom: 6px solid aliceblue;
+    
+}
+
+.far{
+    background-color: aliceblue;
+    border-bottom: 6px solid aliceblue;
+    
+    
+}
+
+.gd{
+    background-color: aliceblue;
+    border-bottom: 6px solid aliceblue;
+    
+}
+
+.rust{
+    
+    background-color: aliceblue;
+    border-bottom: 6px solid aliceblue;
+    
+}
+
+.repo{
+    background-color: aliceblue;
+    border-bottom: 6px solid aliceblue;
+    
+}
+
+text{
+    color: black;
+}
+
+h2{
+    color: black;
+}
+
+header p{
+    color: white;
+    font-size: 36px;
+}
+
+.name{
+    display: flex;
+    align-items: center;
+    width: 223px;
+    justify-content: space-between;
+}
+
+h2{
+    text-align: center;
+
+}
+
+article img{
+    display: block;
+    margin: auto;
+}
+
+article p{
+    margin-left: 75px;
+}
+
+.footer-link{
+    background-color: #D9D9D9;
+    text-decoration: none;
+    color:black;
+    display: block;
+    width: 200px;
+    height: 57px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
